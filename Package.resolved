@@ -65,12 +65,39 @@
         }
       },
       {
+        "package": "jwt",
+        "repositoryURL": "https://github.com/vapor/jwt.git",
+        "state": {
+          "branch": null,
+          "revision": "46eddb526fa70fd9d765a3bdffac73b2be487cfc",
+          "version": "4.0.0"
+        }
+      },
+      {
+        "package": "jwt-kit",
+        "repositoryURL": "https://github.com/vapor/jwt-kit.git",
+        "state": {
+          "branch": null,
+          "revision": "6055fe8439769aa3646a3c797d573ce7305849c8",
+          "version": "4.2.0"
+        }
+      },
+      {
         "package": "multipart-kit",
         "repositoryURL": "https://github.com/vapor/multipart-kit.git",
         "state": {
           "branch": null,
           "revision": "73706f1883f2ba950d41f18aec7e3a53766d4a6d",
           "version": "4.0.0"
+        }
+      },
+      {
+        "package": "NIOCronScheduler",
+        "repositoryURL": "https://github.com/MihaelIsaev/NIOCronScheduler.git",
+        "state": {
+          "branch": null,
+          "revision": "c33c8af4a5836dc37ca675927f2fd030dbf8374e",
+          "version": "2.0.2"
         }
       },
       {
@@ -92,12 +119,30 @@
         }
       },
       {
+        "package": "queues",
+        "repositoryURL": "https://github.com/vapor/queues.git",
+        "state": {
+          "branch": null,
+          "revision": "9418af49ca3ca779c2fab7aa0cedecb1aa6779b6",
+          "version": "1.5.1"
+        }
+      },
+      {
         "package": "routing-kit",
         "repositoryURL": "https://github.com/vapor/routing-kit.git",
         "state": {
           "branch": null,
           "revision": "4cf052b78aebaf1b23f2264ce04d57b4b6eb5254",
           "version": "4.2.0"
+        }
+      },
+      {
+        "package": "Smtp",
+        "repositoryURL": "https://github.com/Mikroservices/Smtp.git",
+        "state": {
+          "branch": null,
+          "revision": "822092f7c25595483b3412cc7a9b58fd94716454",
+          "version": "2.1.4"
         }
       },
       {
@@ -125,6 +170,15 @@
           "branch": null,
           "revision": "6481dd0b01112d082dd7eb362782126e81964138",
           "version": "1.1.0"
+        }
+      },
+      {
+        "package": "SwifCron",
+        "repositoryURL": "https://github.com/MihaelIsaev/SwifCron.git",
+        "state": {
+          "branch": null,
+          "revision": "effe20321342705e66894d86720c5882e2f4095e",
+          "version": "1.3.1"
         }
       },
       {
@@ -215,6 +269,24 @@
           "branch": null,
           "revision": "bb87dcff4cf6d86d386308b4cb1393cefa4891a4",
           "version": "4.39.2"
+        }
+      },
+      {
+        "package": "QueuesFluentDriver",
+        "repositoryURL": "https://github.com/m-barthelemy/vapor-queues-fluent-driver.git",
+        "state": {
+          "branch": null,
+          "revision": "d2ce446341ab45c0b7ea4380a5f77d1e023ccbd8",
+          "version": "1.1.0"
+        }
+      },
+      {
+        "package": "VaporCron",
+        "repositoryURL": "https://github.com/MihaelIsaev/VaporCron.git",
+        "state": {
+          "branch": null,
+          "revision": "900537b21384cd5cbe03c2fd0513fa1de2aafef4",
+          "version": "2.3.0"
         }
       },
       {

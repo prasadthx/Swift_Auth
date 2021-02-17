@@ -37,3 +37,5 @@ struct CreateGalaxy: Migration {
         database.schema("galaxies").delete()
     }
 }
+
+extension Galaxy:Content{}
